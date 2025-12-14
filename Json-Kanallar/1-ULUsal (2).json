@@ -1,8 +1,9 @@
 [
     {
-        "title": "VRT EEN",
+        "title": "Trt 1",
         "group": "Ulusal",
         "urls": [
+            " https://tv-trt1.medya.trt.com.tr/master.m3u8",
             "http://voorbeeld.com/vrt_een/stream.m3u8",
             "http://voorbeeld.com/vrt_een_backup/m3u8"
         ]
@@ -14,4 +15,5 @@
             "http://voorbeeld.com/canvas/stream.m3u8"
         ]
     }
+
 ]

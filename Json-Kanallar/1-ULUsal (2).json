@@ -3,9 +3,15 @@
         "title": "Trt 1",
         "group": "Ulusal",
         "urls": [
-            " https://tv-trt1.medya.trt.com.tr/master.m3u8",
-            "http://voorbeeld.com/vrt_een/stream.m3u8",
-            "http://voorbeeld.com/vrt_een_backup/m3u8"
+ "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+ "https://trt.daioncdn.net/trt-1/master.m3u8?app=web",
+ "http://116.202.238.88/TRT1_TR/index.m3u8",
+ "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20484",
+ "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358053",
+ "https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8",
+ "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+ "http://87.246.54.249:8080/TRT1/index.m3u8",
+ "https://trt.daioncdn.net/trt-1/master.m3u8?app=web"
         ]
     },
     {
@@ -17,3 +23,4 @@
     }
 
 ]
+

@@ -1,0 +1,15 @@
+[
+  {
+    "title": "VRT EEN",
+    "urls": [
+      "http://voorbeeld.com/vrt_een/stream.m3u8",
+      "http://voorbeeld.com/vrt_een_backup/m3u8"
+    ]
+  },
+  {
+    "title": "Canvas",
+    "urls": [
+      "http://voorbeeld.com/canvas/stream.m3u8"
+    ]
+  }
+]

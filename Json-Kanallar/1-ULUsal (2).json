@@ -36,21 +36,7 @@
          "http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8"] },
 
 
-    {
-"title": "Kanal D","group": "Ulusal","urls": [
- https://tatatam.trt1sultanfatihss.workers.dev/https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8", 
- http://stream.tvcdn.net/ulusal/kanal-d.m3u8", 
- https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8", 
- https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8", 
- http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6275", 
- https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8", 
- http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192068", 
- https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8", 
- http://95.174.71.114:80/TR-KANAL-D/index.m3u8", 
- https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3", 
- http://87.246.54.249:8080/KanalD/index.m3u8", 
- http://116.202.238.88/KANALD_TR/index.m3u8" 
-] },
+
 
 
     
@@ -61,6 +47,7 @@
     }
 
 ]
+
 
 
 

@@ -7,12 +7,22 @@
             "http://voorbeeld.com/vrt_een_backup/m3u8"
         ]
     },
+
     {
         "title": "beIN Sport 2",
         "group": "Spor",
         "urls": [
             "https://biraz.6781237.xyz/checklist/androstreamlivebs2.m3u8"
         ]
+    },
+    
+    {
+        "title": "beIN Sport 3",
+        "group": "Spor",
+        "urls": [
+            "https://biraz.6781237.xyz/checklist/androstreamlivebs3.m3u8"
+        ]
     }
 
 ]
+
